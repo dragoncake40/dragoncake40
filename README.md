@@ -28,7 +28,7 @@ Hello! I'm dragoncake40, a passionate developer with a keen interest in web deve
 
 If you enjoy my work, consider buying me a coffee to keep me fueled for more coding!
 
-[Buy Me a Coffee](https://www.buymeacoffee.com)
+[Buy Me a Coffee](https://https://buymeacoffee.com/dragoncake)
 
 Or you can support me with Bitcoin:
 
